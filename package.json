@@ -1,0 +1,20 @@
+{
+  "name": "os2-vjezba-node",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/tjambresic/os2-vjezba-node#readme",
+  "bugs": {
+    "url": "https://github.com/tjambresic/os2-vjezba-node/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tjambresic/os2-vjezba-node.git"
+  },
+  "license": "ISC",
+  "author": "Tomislav Jambrešić",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
