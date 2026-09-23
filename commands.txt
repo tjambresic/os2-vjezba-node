@@ -1,0 +1,19 @@
+git clone https://github.com/tjambresic/os2-vjezba-node.git
+cd os2-vjezba-node
+ls
+touch index.js
+nano index.js
+git add index.js
+git status
+git commit -m "Dodana index.js datoteka"
+git log --oneline
+git push
+npm init
+ls
+cat package.json
+node index.js
+git add package.json
+git status
+git commit -m "Dodana package.json datoteka"
+git log --oneline
+git push
